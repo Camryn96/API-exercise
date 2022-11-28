@@ -1,0 +1,28 @@
+{
+	"laptops":[
+		{
+		"id":1,
+		"brand":"Lenovo",
+		"SerialNumber":"123456789ab",
+		"UserName":"@user1"
+	},
+	{
+		"id":2,
+		"brand":"AlienWare",
+		"SerialNumber":"123456789ac",
+		"UserName":"@user2"
+	},
+	{
+		"id":3,
+		"brand":"MAC",
+		"SerialNumber":"123456789ad",
+		"UserName":"@user3"
+	},
+	{
+		"id":4,
+		"brand":"HP",
+		"SerialNumber":"123456789ae",
+		"UserName":"@user4"
+	}
+	]	
+}
